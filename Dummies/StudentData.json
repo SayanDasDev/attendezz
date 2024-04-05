@@ -1,0 +1,312 @@
+[
+  {
+    "id": "1",
+    "roll": 67731,
+    "name": "Olive Glover",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/589.jpg",
+    "semester": "3",
+    "department": "Computer Science",
+    "papers": ["CS 101", "CS 102", "CS 104", "CS 105", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "2",
+    "roll": 52932,
+    "name": "Guadalupe Auer",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/173.jpg",
+    "semester": "2",
+    "department": "Electrical Engineering",
+    "papers": ["EE 201", "EE 202", "EE 203", "EE 204", "EE 205", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "3",
+    "roll": 3036,
+    "name": "Milton Bartell",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1170.jpg",
+    "semester": "5",
+    "department": "Mechanical Engineering",
+    "papers": ["ME301", "ME302", "ME303", "ME304", "ME305", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "4",
+    "roll": 12177,
+    "name": "Dr. Virginia Block",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1217.jpg",
+    "semester": "1",
+    "department": "Civil Engineering",
+    "papers": ["CE 101", "CE 102", "CE 103", "CE 104", "CE 105", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "5",
+    "roll": 47700,
+    "name": "Claude Keebler",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/154.jpg",
+    "semester": "4",
+    "department": "Chemical Engineering",
+    "papers": ["CHEM 401", "CHEM 403", "CHEM 404", "CHEM 405", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "6",
+    "roll": 74148,
+    "name": "Thelma Metz",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/975.jpg",
+    "semester": "6",
+    "department": "Biomedical Engineering",
+    "papers": ["BME 601", "BME 602", "BME 603", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "7",
+    "roll": 40007,
+    "name": "Mrs. Melody Ryan",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/699.jpg",
+    "semester": "2",
+    "department": "Electrical Engineering",
+    "papers": ["EE 201", "EE 202", "EE 203", "EE 204", "EE 205", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "8",
+    "roll": 95293,
+    "name": "Joey Zemlak",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1133.jpg",
+    "semester": "3",
+    "department": "Computer Science",
+    "papers": ["CS 301", "CS 302", "CS 303", "CS 304", "CS 305", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "9",
+    "roll": 54197,
+    "name": "Kelly Hyatt",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/7.jpg",
+    "semester": "4",
+    "department": "Chemical Engineering",
+    "papers": ["CHEM 401", "CHEM 402", "CHEM 403", "CHEM 404", "CHEM 405", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "10",
+    "roll": 2270,
+    "name": "Ms. Alicia Mills",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/245.jpg",
+    "semester": "1",
+    "department": "Civil Engineering",
+    "papers": ["CE 101", "CE 102", "CE 103", "CE 104", "CE 105", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "11",
+    "roll": 91077,
+    "name": "Ms. Carla Strosin",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/818.jpg",
+    "semester": "5",
+    "department": "Mechanical Engineering",
+    "papers": ["ME501", "ME502", "ME503", "ME505", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "12",
+    "roll": 79586,
+    "name": "Sylvia Olson",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/995.jpg",
+    "semester": "6",
+    "department": "Biomedical Engineering",
+    "papers": ["BME 601", "BME 602", "BME 604", "BME 605", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "13",
+    "roll": 4924,
+    "name": "Sara West",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/859.jpg",
+    "semester": "2",
+    "department": "Electrical Engineering",
+    "papers": ["EE 201", "EE 202", "EE 203", "EE 204", "EE 205", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "14",
+    "roll": 11895,
+    "name": "Janet Rippin Sr.",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/28.jpg",
+    "semester": "3",
+    "department": "Computer Science",
+    "papers": ["CS 301", "CS 302", "CS 303", "CS 304", "CS 305", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "15",
+    "roll": 72608,
+    "name": "Mrs. Jaime Shanahan",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1018.jpg",
+    "semester": "4",
+    "department": "Chemical Engineering",
+    "papers": ["CHEM 401", "CHEM 402", "CHEM 404", "CHEM 405", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "16",
+    "roll": 33196,
+    "name": "Kristopher Christiansen V",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/87.jpg",
+    "semester": "5",
+    "department": "Mechanical Engineering",
+    "papers": ["ME501", "ME502", "ME503", "ME504", "ME505", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "17",
+    "roll": 81226,
+    "name": "Dr. Kerry Ledner",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+    "semester": "1",
+    "department": "Civil Engineering",
+    "papers": ["CE 101", "CE 102", "CE 104", "CE 105", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "18",
+    "roll": 57894,
+    "name": "Fernando Daniel",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg",
+    "semester": "6",
+    "department": "Biomedical Engineering",
+    "papers": ["BME 601", "BME 602", "BME 604", "BME 605", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "19",
+    "roll": 87464,
+    "name": "Jacob Stehr",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1184.jpg",
+    "semester": "2",
+    "department": "Electrical Engineering",
+    "papers": ["EE 201", "EE 202", "EE 203", "EE 204", "EE 205", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "20",
+    "roll": 62819,
+    "name": "Allen Pollich",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1129.jpg",
+    "semester": "3",
+    "department": "Computer Science",
+    "papers": ["CS 301", "CS 302", "CS 303", "CS 304", "CS 305", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "M.Sc"
+  },
+  {
+    "id": "21",
+    "roll": 18101,
+    "name": "Billie Heller",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/173.jpg",
+    "semester": "4",
+    "department": "Chemical Engineering",
+    "papers": ["CHEM 401", "CHEM 402", "CHEM 404", "CHEM 405", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "22",
+    "roll": 42546,
+    "name": "Maria Kutch",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/637.jpg",
+    "semester": "5",
+    "department": "Mechanical Engineering",
+    "papers": ["ME501", "ME502", "ME503", "ME504", "ME505", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "M.Sc"
+  },
+  {
+    "id": "23",
+    "roll": 41531,
+    "name": "Mrs. Lorenzo Emard",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/450.jpg",
+    "semester": "6",
+    "department": "Biomedical Engineering",
+    "papers": ["BME 601", "BME 602", "BME 603", "BME 604", "BME 605", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "24",
+    "roll": 65382,
+    "name": "Everett Reynolds",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1039.jpg",
+    "semester": "7",
+    "department": "Civil Engineering",
+    "papers": ["CE 701", "CE 702", "CE 704", "CE 705", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "25",
+    "roll": 16271,
+    "name": "Clark Boyer",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/221.jpg",
+    "semester": "2",
+    "department": "Electrical Engineering",
+    "papers": ["EE 201", "EE 202", "EE 203", "EE 204", "EE 205", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "M.Sc"
+  },
+  {
+    "id": "26",
+    "roll": 68756,
+    "name": "Cary Reynolds",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/930.jpg",
+    "semester": "8",
+    "department": "Computer Science",
+    "papers": ["CS 801", "CS 103", "CS 107", "CS 109", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "27",
+    "roll": 90028,
+    "name": "Kelly Denesik",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/841.jpg",
+    "semester": "4",
+    "department": "Chemical Engineering",
+    "papers": ["CHEM 401", "CHEM 402", "CHEM 403", "CHEM 404", "CHEM 405", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "M.Sc"
+  },
+  {
+    "id": "28",
+    "roll": 64892,
+    "name": "Luz Hirthe",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1186.jpg",
+    "semester": "5",
+    "department": "Mechanical Engineering",
+    "papers": ["MECH 501", "MECH 502", "MECH 503", "MECH 504", "MECH 505", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "B.Sc"
+  },
+  {
+    "id": "29",
+    "roll": 10131,
+    "name": "Gilbert Reinger",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1015.jpg",
+    "semester": "6",
+    "department": "Biomedical Engineering",
+    "papers": ["BME 601", "BME 602", "BME 605", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "M.Sc"
+  },
+  {
+    "id": "30",
+    "roll": 6269,
+    "name": "Wm Lesch",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/700.jpg",
+    "semester": "1",
+    "department": "Civil Engineering",
+    "papers": ["CE 101", "CE 102", "CE 103", "CE 104", "CE 105", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "M.Sc"
+  },
+  {
+    "id": "31",
+    "roll": 1157,
+    "name": "Dr. Wilfred McClure",
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/24.jpg",
+    "semester": "2",
+    "department": "Electrical Engineering",
+    "papers": ["EE 201", "EE 202", "EE 204", "EE 205", "PR-1", "PR-2", "PR-3", "DSE-I", "DSE-II"],
+    "course": "M.Sc"
+  }
+]

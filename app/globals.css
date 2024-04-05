@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --background: 39 100% 95%;
+  --foreground: 39 5% 5%;
+  --neutral: 180 0 100%;
+  --card: 39 50% 90%;
+  --card-foreground: 39 5% 10%;
+  --popover: 39 100% 95%;
+  --popover-foreground: 39 100% 5%;
+  --primary: 39 100% 66.5%;
+  --primary-foreground: 0 0% 0%;
+  --secondary: 39 30% 70%;
+  --secondary-foreground: 0 0% 0%;
+  --muted: 1 30% 85%;
+  --muted-foreground: 39 5% 35%;
+  --accent: 1 30% 80%;
+  --accent-foreground: 39 5% 10%;
+  --destructive: 10 80% 50%;
+  --destructive-foreground: 39 5% 90%;
+  --border: 39 30% 50%;
+  --input: 39 30% 18%;
+  --ring: 39 100% 66.5%;
+  --success: 155 75.2% 45.3%;
+  --warning: 52 80.2% 50.3%;
+  --radius: 1rem;
+}
+
+.dark {
+  --background: 39 50% 5%;
+  --foreground: 39 5% 90%;
+  --neutral: 180 0 0%;
+  --card: 39 50% 5%;
+  --card-foreground: 39 5% 90%;
+  --popover: 39 50% 5%;
+  --popover-foreground: 39 5% 90%;
+  --primary: 39 100% 66.5%;
+  --primary-foreground: 0 0% 0%;
+  --secondary: 39 30% 10%;
+  --secondary-foreground: 0 0% 100%;
+  --muted: 1 30% 15%;
+  --muted-foreground: 39 5% 60%;
+  --accent: 1 30% 15%;
+  --accent-foreground: 39 5% 90%;
+  --destructive: 0 100% 30%;
+  --destructive-foreground: 39 5% 90%;
+  --border: 39 30% 18%;
+  --input: 39 30% 18%;
+  --ring: 39 100% 66.5%;
+  --radius: 2rem;
+}
+
+
+@layer base {
+  * {
+    @apply border-border box-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.invert-white {
+  @apply invert brightness-0 transition;
+}
+
+.invert-black {
+  @apply invert brightness-50 transition;
+}
+
+
+/* Calender styles */
+
+.allpresentStyle{
+  @apply bg-success text-primary-foreground hover:text-success;
+}
+
+.somepresentStyle{
+  @apply bg-warning text-primary-foreground hover:text-warning;
+}
+
+.allabsentStyle{
+  @apply bg-destructive text-primary-foreground hover:text-destructive;
+}
+
+.holidaysStyle{
+  @apply bg-muted/50 text-foreground/30;
+}

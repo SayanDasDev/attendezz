@@ -1,0 +1,562 @@
+[
+  {
+      "id": "1",
+      "name": "Biology",
+      "class_code": "BIO101",
+      "teacher": "Dr. Smith",
+      "locations": [
+          {
+              "id": "101",
+              "name": "Lab A"
+          },
+          {
+              "id": "102",
+              "name": "Classroom 3"
+          },
+          {
+              "id": "103",
+              "name": "Botanical Gardens"
+          },
+          {
+              "id": "104",
+              "name": "Field Research Area"
+          },
+          {
+              "id": "105",
+              "name": "Science Museum"
+          }
+      ]
+  },
+  {
+      "id": "2",
+      "name": "History",
+      "class_code": "HIS201",
+      "teacher": "Prof. Johnson",
+      "locations": [
+          {
+              "id": "201",
+              "name": "Library"
+          },
+          {
+              "id": "202",
+              "name": "Classroom 5"
+          },
+          {
+              "id": "203",
+              "name": "Archives Room"
+          },
+          {
+              "id": "204",
+              "name": "Museum of History"
+          },
+          {
+              "id": "205",
+              "name": "Historical Landmark"
+          }
+      ]
+  },
+  {
+      "id": "3",
+      "name": "Mathematics",
+      "class_code": "MATH301",
+      "teacher": "Ms. Rodriguez",
+      "locations": [
+          {
+              "id": "301",
+              "name": "Math Lab"
+          },
+          {
+              "id": "302",
+              "name": "Classroom 1"
+          },
+          {
+              "id": "303",
+              "name": "Math Club Room"
+          },
+          {
+              "id": "304",
+              "name": "Geometry Park"
+          },
+          {
+              "id": "305",
+              "name": "Algorithm Alley"
+          }
+      ]
+  },
+  {
+      "id": "4",
+      "name": "Physics",
+      "class_code": "PHY202",
+      "teacher": "Prof. Thompson",
+      "locations": [
+          {
+              "id": "401",
+              "name": "Physics Lab"
+          },
+          {
+              "id": "402",
+              "name": "Classroom 7"
+          },
+          {
+              "id": "403",
+              "name": "Observation Deck"
+          },
+          {
+              "id": "404",
+              "name": "Quantum Mechanics Hall"
+          },
+          {
+              "id": "405",
+              "name": "Astronomy Tower"
+          }
+      ]
+  },
+  {
+      "id": "5",
+      "name": "Literature",
+      "class_code": "LIT102",
+      "teacher": "Dr. Garcia",
+      "locations": [
+          {
+              "id": "501",
+              "name": "Auditorium"
+          },
+          {
+              "id": "502",
+              "name": "Classroom 4"
+          },
+          {
+              "id": "503",
+              "name": "Poetry Corner"
+          },
+          {
+              "id": "504",
+              "name": "Shakespearean Theater"
+          },
+          {
+              "id": "505",
+              "name": "Library of Classics"
+          }
+      ]
+  },
+  {
+      "id": "6",
+      "name": "Chemistry",
+      "class_code": "CHEM303",
+      "teacher": "Prof. Lee",
+      "locations": [
+          {
+              "id": "601",
+              "name": "Chem Lab"
+          },
+          {
+              "id": "602",
+              "name": "Classroom 2"
+          },
+          {
+              "id": "603",
+              "name": "Periodic Table Hall"
+          },
+          {
+              "id": "604",
+              "name": "Biochemistry Center"
+          },
+          {
+              "id": "605",
+              "name": "Molecular Structure Zone"
+          }
+      ]
+  },
+  {
+      "id": "7",
+      "name": "Computer Science",
+      "class_code": "CS105",
+      "teacher": "Mr. Davis",
+      "locations": [
+          {
+              "id": "701",
+              "name": "Computer Lab 1"
+          },
+          {
+              "id": "702",
+              "name": "Classroom 6"
+          },
+          {
+              "id": "703",
+              "name": "Coding Arena"
+          },
+          {
+              "id": "704",
+              "name": "Artificial Intelligence Hub"
+          },
+          {
+              "id": "705",
+              "name": "Virtual Reality Lab"
+          }
+      ]
+  },
+  {
+      "id": "8",
+      "name": "Economics",
+      "class_code": "ECO202",
+      "teacher": "Dr. Patel",
+      "locations": [
+          {
+              "id": "801",
+              "name": "Economics Lab"
+          },
+          {
+              "id": "802",
+              "name": "Classroom 8"
+          },
+          {
+              "id": "803",
+              "name": "Stock Market Simulation Room"
+          },
+          {
+              "id": "804",
+              "name": "Global Economic Forum"
+          },
+          {
+              "id": "805",
+              "name": "Financial Analysis Center"
+          }
+      ]
+  },
+  {
+      "id": "9",
+      "name": "Art",
+      "class_code": "ART110",
+      "teacher": "Ms. Wong",
+      "locations": [
+          {
+              "id": "901",
+              "name": "Art Studio"
+          },
+          {
+              "id": "902",
+              "name": "Classroom 9"
+          },
+          {
+              "id": "903",
+              "name": "Sculpture Garden"
+          },
+          {
+              "id": "904",
+              "name": "Gallery Exhibition Hall"
+          },
+          {
+              "id": "905",
+              "name": "Digital Art Studio"
+          }
+      ]
+  },
+  {
+      "id": "10",
+      "name": "Physical Education",
+      "class_code": "PED101",
+      "teacher": "Coach Johnson",
+      "locations": [
+          {
+              "id": "1001",
+              "name": "Gymnasium"
+          },
+          {
+              "id": "1002",
+              "name": "Outdoor Field"
+          },
+          {
+              "id": "1003",
+              "name": "Fitness Center"
+          },
+          {
+              "id": "1004",
+              "name": "Sports Arena"
+          },
+          {
+              "id": "1005",
+              "name": "Track and Field"
+          }
+      ]
+  },
+  {
+      "id": "11",
+      "name": "Geography",
+      "class_code": "GEO205",
+      "teacher": "Prof. Kim",
+      "locations": [
+          {
+              "id": "1101",
+              "name": "Geography Lab"
+          },
+          {
+              "id": "1102",
+              "name": "Classroom 10"
+          },
+          {
+              "id": "1103",
+              "name": "Mapping Room"
+          },
+          {
+              "id": "1104",
+              "name": "Cartography Center"
+          },
+          {
+              "id": "1105",
+              "name": "Physical Geography Observatory"
+          }
+      ]
+  },
+  {
+      "id": "12",
+      "name": "Psychology",
+      "class_code": "PSYCH301",
+      "teacher": "Dr. Adams",
+      "locations": [
+          {
+              "id": "1201",
+              "name": "Psych Lab"
+          },
+          {
+              "id": "1202",
+              "name": "Classroom 11"
+          },
+          {
+              "id": "1203",
+              "name": "Behavioral Observation Room"
+          },
+          {
+              "id": "1204",
+              "name": "Cognitive Psychology Center"
+          },
+          {
+              "id": "1205",
+              "name": "Psychotherapy Clinic"
+          }
+      ]
+  },
+  {
+      "id": "13",
+      "name": "Sociology",
+      "class_code": "SOC105",
+      "teacher": "Prof. Martinez",
+      "locations": [
+          {
+              "id": "1301",
+              "name": "Sociology Lab"
+          },
+          {
+              "id": "1302",
+              "name": "Classroom 12"
+          },
+          {
+              "id": "1303",
+              "name": "Community Study Room"
+          },
+          {
+              "id": "1304",
+              "name": "Social Research Center"
+          },
+          {
+              "id": "1305",
+              "name": "Cultural Anthropology Zone"
+          }
+      ]
+  },
+  {
+      "id": "14",
+      "name": "Languages",
+      "class_code": "LANG203",
+      "teacher": "Ms. Lopez",
+      "locations": [
+          {
+              "id": "1401",
+              "name": "Language Lab"
+          },
+          {
+              "id": "1402",
+              "name": "Classroom 13"
+          },
+          {
+              "id": "1403",
+              "name": "Translation Center"
+          },
+          {
+              "id": "1404",
+              "name": "Linguistic Anthropology Hall"
+          },
+          {
+              "id": "1405",
+              "name": "Multilingual Library"
+          }
+      ]
+  },
+  {
+      "id": "15",
+      "name": "Music",
+      "class_code": "MUS108",
+      "teacher": "Mr. Thompson",
+      "locations": [
+          {
+              "id": "1501",
+              "name": "Music Room"
+          },
+          {
+              "id": "1502",
+              "name": "Classroom 14"
+          },
+          {
+              "id": "1503",
+              "name": "Concert Hall"
+          },
+          {
+              "id": "1504",
+              "name": "Recording Studio"
+          },
+          {
+              "id": "1505",
+              "name": "Music Theory Lab"
+          }
+      ]
+  },
+  {
+      "id": "16",
+      "name": "Political Science",
+      "class_code": "POLI207",
+      "teacher": "Prof. Washington",
+      "locations": [
+          {
+              "id": "1601",
+              "name": "Political Science Lab"
+          },
+          {
+              "id": "1602",
+              "name": "Classroom 15"
+          },
+          {
+              "id": "1603",
+              "name": "Government Simulation Room"
+          },
+          {
+              "id": "1604",
+              "name": "International Relations Center"
+          },
+          {
+              "id": "1605",
+              "name": "Policy Analysis Bureau"
+          }
+      ]
+  },
+  {
+      "id": "17",
+      "name": "Anthropology",
+      "class_code": "ANTH101",
+      "teacher": "Dr. Davis",
+      "locations": [
+          {
+              "id": "1701",
+              "name": "Anthropology Lab"
+          },
+          {
+              "id": "1702",
+              "name": "Classroom 16"
+          },
+          {
+              "id": "1703",
+              "name": "Archaeology Site"
+          },
+          {
+              "id": "1704",
+              "name": "Cultural Anthropology Center"
+          },
+          {
+              "id": "1705",
+              "name": "Human Evolution Museum"
+          }
+      ]
+  },
+  {
+      "id": "18",
+      "name": "Astronomy",
+      "class_code": "ASTRO104",
+      "teacher": "Prof. Thompson",
+      "locations": [
+          {
+              "id": "1801",
+              "name": "Astronomy Lab"
+          },
+          {
+              "id": "1802",
+              "name": "Classroom 17"
+          },
+          {
+              "id": "1803",
+              "name": "Planetarium"
+          },
+          {
+              "id": "1804",
+              "name": "Observatory"
+          },
+          {
+              "id": "1805",
+              "name": "Astrophysics Center"
+          }
+      ]
+  },
+  {
+      "id": "19",
+      "name": "Drama",
+      "class_code": "DRAM205",
+      "teacher": "Ms. Taylor",
+      "locations": [
+          {
+              "id": "1901",
+              "name": "Theater Stage"
+          },
+          {
+              "id": "1902",
+              "name": "Classroom 18"
+          },
+          {
+              "id": "1903",
+              "name": "Acting Studio"
+          },
+          {
+              "id": "1904",
+              "name": "Costume Design Room"
+          },
+          {
+              "id": "1905",
+              "name": "Drama Club Space"
+          }
+      ]
+  },
+  {
+      "id": "20",
+      "name": "Health Sciences",
+      "class_code": "HLTH201",
+      "teacher": "Dr. Johnson",
+      "locations": [
+          {
+              "id": "2001",
+              "name": "Health Sciences Lab"
+          },
+          {
+              "id": "2002",
+              "name": "Classroom 19"
+          },
+          {
+              "id": "2003",
+              "name": "Medical Simulation Center"
+          },
+          {
+              "id": "2004",
+              "name": "Nursing Practice Ward"
+          },
+          {
+              "id": "2005",
+              "name": "Public Health Office"
+          }
+      ]
+  }
+]
