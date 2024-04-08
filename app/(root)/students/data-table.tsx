@@ -4,7 +4,6 @@ import {
   ColumnDef,
   ColumnFiltersState,
   SortingState,
-  VisibilityState,
   flexRender,
   getCoreRowModel,
   getFilteredRowModel,
@@ -21,7 +20,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import React, { useState } from "react";
+import React from "react";
 import { StudentsToolbar } from "./_components/StudentsToolbar";
 import { Pagination } from "@/components/shared/Pagination";
 import { useRouter } from "next/navigation";
@@ -40,26 +39,18 @@ export function DataTable<TData, TValue>({
     []
   );
 
-  const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({
-    firstname: false,
-    lastname: false,
-    id: false,
-  })
-
   const table = useReactTable({
     data,
     columns,
     getCoreRowModel: getCoreRowModel(),
     getPaginationRowModel: getPaginationRowModel(),
     onSortingChange: setSorting,
-    onColumnVisibilityChange: setColumnVisibility, 
     getSortedRowModel: getSortedRowModel(),
     onColumnFiltersChange: setColumnFilters,
     getFilteredRowModel: getFilteredRowModel(),
     state: {
       sorting,
       columnFilters,
-      columnVisibility
     },
   });
 
@@ -98,7 +89,7 @@ export function DataTable<TData, TValue>({
                   className="h-16 cursor-pointer hover:bg-primary/20 odd:bg-primary/5"
                   key={row.id}
                   data-state={row.getIsSelected() && "selected"}
-                  onClick={() => router.push(`/students/${row.getValue("id")}`)}
+                  onClick={() => router.push(`/students/${row.getValue("roll")}`)}
                 >
                   {row.getVisibleCells().map((cell) => (
                     <TableCell key={cell.id}>

@@ -40,7 +40,10 @@ export default function Students() {
   return (
     <main className="p-6">
       <SectionHeading title="Students List" />
-      {isLoading ? "Loading..." : <DataTable columns={columns} data={allStudents} />}
+      {isLoading ? "Loading..." : 
+        // <DataTable columns={columns} data={allStudents} />
+        <pre>{JSON.stringify(allStudents, null, 2)}</pre>
+      }
     </main>
   );
 }
